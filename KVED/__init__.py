@@ -1,0 +1,3 @@
+from KVED2005Scraper import KvedScraper, BASE_URL
+from KVED_map_2010_csv import fill_out_csv_2010
+from KVED_map_2005_csv import fill_out_csv_2005
